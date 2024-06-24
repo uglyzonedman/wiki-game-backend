@@ -1,0 +1,531 @@
+{
+    "teams": [
+        {
+            "country_text": "Европа",
+            "flag": null,
+            "flag_dominant_color": "#000065",
+            "location": "Канада",
+            "world_rating": "1",
+            "earned": "3 968 749",
+            "org_name": "Gaimin Gladiators",
+            "org_image": "5764_no_bg.png",
+            "org_image_dominant_color": "#000000"
+        },
+        {
+            "country_text": "Россия",
+            "flag": null,
+            "flag_dominant_color": "#000000",
+            "location": "Россия",
+            "world_rating": "2",
+            "earned": "27 434 259",
+            "org_name": "Team Spirit",
+            "org_image": "67_no_bg.png",
+            "org_image_dominant_color": "#000000"
+        },
+        {
+            "country_text": "Швеция",
+            "flag": null,
+            "flag_dominant_color": "#000000",
+            "location": "Нидерланды",
+            "world_rating": "3",
+            "earned": "28 548 129",
+            "org_name": "Team Liquid",
+            "org_image": "45_no_bg.png",
+            "org_image_dominant_color": "#efefef"
+        },
+        {
+            "country_text": "Европа",
+            "flag": null,
+            "flag_dominant_color": "#000065",
+            "location": "Великобритания",
+            "world_rating": "4",
+            "earned": "9 980 689",
+            "org_name": "Tundra Esports",
+            "org_image": "5536_no_bg.png",
+            "org_image_dominant_color": "#dddddd"
+        },
+        {
+            "country_text": "MENA",
+            "flag": null,
+            "flag_dominant_color": "#22a471",
+            "location": "Саудовская Аравия",
+            "world_rating": "5",
+            "earned": "551 212",
+            "org_name": "Team Falcons",
+            "org_image": "6277_no_bg.png",
+            "org_image_dominant_color": "#000000"
+        },
+        {
+            "country_text": "Китай",
+            "flag": null,
+            "flag_dominant_color": "#000000",
+            "location": "Китай",
+            "world_rating": "6",
+            "earned": "750 058",
+            "org_name": "Xtreme Gaming",
+            "org_image": "5490_no_bg.png",
+            "org_image_dominant_color": "#000000"
+        },
+        {
+            "country_text": "Китай",
+            "flag": null,
+            "flag_dominant_color": "#000000",
+            "location": "Китай",
+            "world_rating": "7",
+            "earned": "25 207 437",
+            "org_name": "LGD Gaming",
+            "org_image": "48_no_bg.png",
+            "org_image_dominant_color": "#000000"
+        },
+        {
+            "country_text": "Россия",
+            "flag": null,
+            "flag_dominant_color": "#000000",
+            "location": "Россия",
+            "world_rating": "8",
+            "earned": "1 683 653",
+            "org_name": "BetBoom Team",
+            "org_image": "5801_no_bg.png",
+            "org_image_dominant_color": "#000000"
+        },
+        {
+            "country_text": "Европа",
+            "flag": null,
+            "flag_dominant_color": "#000065",
+            "location": "Индия",
+            "world_rating": "9",
+            "earned": "961 099",
+            "org_name": "Entity",
+            "org_image": "530_no_bg.png",
+            "org_image_dominant_color": "#ffffff"
+        },
+        {
+            "country_text": "Китай",
+            "flag": null,
+            "flag_dominant_color": "#000000",
+            "location": "Китай",
+            "world_rating": "10",
+            "earned": "8 240 354",
+            "org_name": "G2.iG",
+            "org_image": "70_no_bg.png",
+            "org_image_dominant_color": "#ffffff"
+        },
+        {
+            "country_text": "Европа",
+            "flag": null,
+            "flag_dominant_color": "#000065",
+            "location": "Европа",
+            "world_rating": "11",
+            "earned": "36 714 954",
+            "org_name": "OG",
+            "org_image": "44_no_bg.png",
+            "org_image_dominant_color": "#000000"
+        },
+        {
+            "country_text": "Китай",
+            "flag": null,
+            "flag_dominant_color": "#000000",
+            "location": "Китай",
+            "world_rating": "12",
+            "earned": "229 535",
+            "org_name": "Azure Ray",
+            "org_image": "5752_no_bg.png",
+            "org_image_dominant_color": "#000000"
+        },
+        {
+            "country_text": "MENA",
+            "flag": null,
+            "flag_dominant_color": "#22a471",
+            "location": "Катар",
+            "world_rating": "13",
+            "earned": "737 563",
+            "org_name": "PSG Quest",
+            "org_image": "5804_no_bg.png",
+            "org_image_dominant_color": "#000000"
+        },
+        {
+            "country_text": "Китай",
+            "flag": null,
+            "flag_dominant_color": "#000000",
+            "location": "Китай",
+            "world_rating": "14",
+            "earned": "2 895 231",
+            "org_name": "Team Aster",
+            "org_image": "2074_no_bg.png",
+            "org_image_dominant_color": "#000000"
+        },
+        {
+            "country_text": "Россия",
+            "flag": null,
+            "flag_dominant_color": "#000000",
+            "location": "Армения",
+            "world_rating": "15",
+            "earned": "11 837 408",
+            "org_name": "Virtus.pro",
+            "org_image": "72_no_bg.png",
+            "org_image_dominant_color": "#000000"
+        },
+        {
+            "country_text": "Россия",
+            "flag": null,
+            "flag_dominant_color": "#000000",
+            "location": "Сербия",
+            "world_rating": "16",
+            "earned": "1 118 525",
+            "org_name": "9Pandas",
+            "org_image": "6134_no_bg.png",
+            "org_image_dominant_color": "#000000"
+        },
+        {
+            "country_text": "Малайзия",
+            "flag": null,
+            "flag_dominant_color": "#000000",
+            "location": "Филиппины",
+            "world_rating": "17",
+            "earned": "2 270 297",
+            "org_name": "Talon Esports",
+            "org_image": "5726_no_bg.png",
+            "org_image_dominant_color": "#000000"
+        },
+        {
+            "country_text": "Перу",
+            "flag": null,
+            "flag_dominant_color": "#000000",
+            "location": "Индонезия",
+            "world_rating": "18",
+            "earned": "1 355 934",
+            "org_name": "BOOM Esports",
+            "org_image": "931_no_bg.png",
+            "org_image_dominant_color": "#000000"
+        },
+        {
+            "country_text": "Европа",
+            "flag": null,
+            "flag_dominant_color": "#000065",
+            "location": "Европа",
+            "world_rating": "19",
+            "earned": "18 390 908",
+            "org_name": "Team Secret",
+            "org_image": "50_no_bg.png",
+            "org_image_dominant_color": "#000000"
+        },
+        {
+            "country_text": "Перу",
+            "flag": null,
+            "flag_dominant_color": "#000000",
+            "location": "США",
+            "world_rating": "20",
+            "earned": "1 788 256",
+            "org_name": "beastcoast",
+            "org_image": "3541_no_bg.png",
+            "org_image_dominant_color": "#31d9c2"
+        },
+        {
+            "country_text": "Северная Америка",
+            "flag": null,
+            "flag_dominant_color": "#000000",
+            "location": "Канада",
+            "world_rating": "21",
+            "earned": "735 261",
+            "org_name": "Shopify Rebellion",
+            "org_image": "5966_no_bg.png",
+            "org_image_dominant_color": "#000000"
+        },
+        {
+            "country_text": "Перу",
+            "flag": null,
+            "flag_dominant_color": "#000000",
+            "location": "Перу",
+            "world_rating": "22",
+            "earned": "1 391 633",
+            "org_name": "Thunder Awaken",
+            "org_image": "1266_no_bg.png",
+            "org_image_dominant_color": "#000000"
+        },
+        {
+            "country_text": "Филиппины",
+            "flag": null,
+            "flag_dominant_color": "#000000",
+            "location": "Малайзия",
+            "world_rating": "23",
+            "earned": "394 274",
+            "org_name": "Geek Fam",
+            "org_image": "560_no_bg.png",
+            "org_image_dominant_color": "#000000"
+        },
+        {
+            "country_text": "Северная Америка",
+            "flag": null,
+            "flag_dominant_color": "#000000",
+            "location": "США",
+            "world_rating": "24",
+            "earned": "508 857",
+            "org_name": "nouns",
+            "org_image": "5811_no_bg.png",
+            "org_image_dominant_color": "#000000"
+        },
+        {
+            "country_text": "Украина",
+            "flag": null,
+            "flag_dominant_color": "#000000",
+            "location": "Украина",
+            "world_rating": "25",
+            "earned": "5 197 188",
+            "org_name": "Natus Vincere",
+            "org_image": "25_no_bg.png",
+            "org_image_dominant_color": "#000000"
+        }
+    ],
+    "players": [
+        {
+            "player_fullname": "Илья Мулярчук",
+            "player_org_name": "Team Spirit",
+            "player_position_name": "Керри",
+            "player_country_name": "Украина",
+            "player_birth_date": "12.03.2003",
+            "player_nick": "Yatoro",
+            "player_image_name": "4677_no_bg.png",
+            "player_image_dominant_color": "#000000"
+        },
+        {
+            "player_fullname": "Антон Шкредов",
+            "player_org_name": "Gaimin Gladiators",
+            "player_position_name": "Керри",
+            "player_country_name": "Россия",
+            "player_birth_date": "05.09.2001",
+            "player_nick": "dyrachyo",
+            "player_image_name": "4146_no_bg.png",
+            "player_image_dominant_color": "#000000"
+        },
+        {
+            "player_fullname": "Роман Кушнарёв",
+            "player_org_name": "Tundra Esports",
+            "player_position_name": "Оффлейнер",
+            "player_country_name": "Россия",
+            "player_birth_date": "25.04.1999",
+            "player_nick": "RAMZES666",
+            "player_image_name": "666_no_bg.png",
+            "player_image_dominant_color": "#000000"
+        },
+        {
+            "player_fullname": "Александр Хертек",
+            "player_org_name": "BetBoom Team",
+            "player_position_name": "Сапорт 5",
+            "player_country_name": "Россия",
+            "player_birth_date": "30.04.1997",
+            "player_nick": "TORONTOTOKYO",
+            "player_image_name": "4525_no_bg.png",
+            "player_image_dominant_color": "#000000"
+        },
+        {
+            "player_fullname": "Александр Левин",
+            "player_org_name": "Не состоит",
+            "player_position_name": "Мидер",
+            "player_country_name": "Россия",
+            "player_birth_date": "12.11.1996",
+            "player_nick": "Nix",
+            "player_image_name": "511_no_bg.png",
+            "player_image_dominant_color": "#000000"
+        },
+        {
+            "player_fullname": "Амер аль-Баркави",
+            "player_org_name": "Nigma Galaxy",
+            "player_position_name": "Керри",
+            "player_country_name": "Иордания",
+            "player_birth_date": "20.06.1997",
+            "player_nick": "Miracle-",
+            "player_image_name": "535_no_bg.png",
+            "player_image_dominant_color": "#000000"
+        },
+        {
+            "player_fullname": "Магомед Халилов",
+            "player_org_name": "Team Spirit",
+            "player_position_name": "Оффлейнер",
+            "player_country_name": "Россия",
+            "player_birth_date": "25.02.2002",
+            "player_nick": "Collapse",
+            "player_image_name": "3043_no_bg.png",
+            "player_image_dominant_color": "#000000"
+        },
+        {
+            "player_fullname": "Никита Кузьмин",
+            "player_org_name": "D_M_S",
+            "player_position_name": "Оффлейнер",
+            "player_country_name": "Россия",
+            "player_birth_date": "07.05.1997",
+            "player_nick": "Daxak",
+            "player_image_name": "1404_no_bg.png",
+            "player_image_dominant_color": "#000000"
+        },
+        {
+            "player_fullname": "Егор Григоренко",
+            "player_org_name": "BetBoom Team",
+            "player_position_name": "Керри",
+            "player_country_name": "Россия",
+            "player_birth_date": "16.05.2002",
+            "player_nick": "Nightfall",
+            "player_image_name": "4015_no_bg.png",
+            "player_image_dominant_color": "#000000"
+        },
+        {
+            "player_fullname": "Глеб Зырянов",
+            "player_org_name": "9Pandas",
+            "player_position_name": "Мидер",
+            "player_country_name": "Россия",
+            "player_birth_date": "19.08.2004",
+            "player_nick": "kiyotaka",
+            "player_image_name": "4759_no_bg.png",
+            "player_image_dominant_color": "#000000"
+        },
+        {
+            "player_fullname": "Денис Сигитов",
+            "player_org_name": "Team Spirit",
+            "player_position_name": "Мидер",
+            "player_country_name": "Россия",
+            "player_birth_date": "22.01.2002",
+            "player_nick": "Larl",
+            "player_image_name": "5055_no_bg.png",
+            "player_image_dominant_color": "#000000"
+        },
+        {
+            "player_fullname": "Ярослав Найденов",
+            "player_org_name": "Team Spirit",
+            "player_position_name": "Сапорт 5",
+            "player_country_name": "Россия",
+            "player_birth_date": "30.11.1997",
+            "player_nick": "Miposhka",
+            "player_image_name": "391_no_bg.png",
+            "player_image_dominant_color": "#000000"
+        },
+        {
+            "player_fullname": "Данил Ишутин",
+            "player_org_name": "B8",
+            "player_position_name": "Мидер",
+            "player_country_name": "Украина",
+            "player_birth_date": "30.12.1989",
+            "player_nick": "Dendi",
+            "player_image_name": "495_no_bg.png",
+            "player_image_dominant_color": "#000000"
+        },
+        {
+            "player_fullname": "Топиас Микка Таавитсайнен",
+            "player_org_name": "Tundra Esports",
+            "player_position_name": "Мидер",
+            "player_country_name": "Финляндия",
+            "player_birth_date": "14.04.1998",
+            "player_nick": "Topson",
+            "player_image_name": "2176_no_bg.png",
+            "player_image_dominant_color": "#000000"
+        },
+        {
+            "player_fullname": "Алексей Березин",
+            "player_org_name": "9Pandas",
+            "player_position_name": "Сапорт 5",
+            "player_country_name": "Россия",
+            "player_birth_date": "07.08.1990",
+            "player_nick": "Solo",
+            "player_image_name": "322_no_bg.png",
+            "player_image_dominant_color": "#000000"
+        },
+        {
+            "player_fullname": "Богдан Василенко",
+            "player_org_name": "Не состоит",
+            "player_position_name": "Сапорт 4",
+            "player_country_name": "Украина",
+            "player_birth_date": "13.04.1997",
+            "player_nick": "Iceberg",
+            "player_image_name": "244_no_bg.png",
+            "player_image_dominant_color": "#000000"
+        },
+        {
+            "player_fullname": "Мирослав Колпаков",
+            "player_org_name": "Team Spirit",
+            "player_position_name": "Сапорт 4",
+            "player_country_name": "Украина",
+            "player_birth_date": "03.11.1999",
+            "player_nick": "Mira",
+            "player_image_name": "4311_no_bg.png",
+            "player_image_dominant_color": "#000000"
+        },
+        {
+            "player_fullname": "Данил Скутин",
+            "player_org_name": "BetBoom Team",
+            "player_position_name": "Мидер",
+            "player_country_name": "Россия",
+            "player_birth_date": "23.08.2001",
+            "player_nick": "gpk",
+            "player_image_name": "2768_no_bg.png",
+            "player_image_dominant_color": "#000000"
+        },
+        {
+            "player_fullname": "Саид Самаил Хассан",
+            "player_org_name": "Nigma Galaxy",
+            "player_position_name": "Мидер",
+            "player_country_name": "Пакистан",
+            "player_birth_date": "13.02.1999",
+            "player_nick": "SumaiL",
+            "player_image_name": "468_no_bg.png",
+            "player_image_dominant_color": "#000000"
+        },
+        {
+            "player_fullname": "Игорь Филатов",
+            "player_org_name": "Не состоит",
+            "player_position_name": "Керри",
+            "player_country_name": "Россия",
+            "player_birth_date": "29.10.1999",
+            "player_nick": "iLTW",
+            "player_image_name": "510_no_bg.png",
+            "player_image_dominant_color": "#000000"
+        },
+        {
+            "player_fullname": "Ван Чуньюй",
+            "player_org_name": "Xtreme Gaming",
+            "player_position_name": "Керри",
+            "player_country_name": "Китай",
+            "player_birth_date": "07.04.1997",
+            "player_nick": "Ame",
+            "player_image_name": "348_no_bg.png",
+            "player_image_dominant_color": "#000000"
+        },
+        {
+            "player_fullname": "Илья Коробкин",
+            "player_org_name": "Не состоит",
+            "player_position_name": "Инактив",
+            "player_country_name": "Украина",
+            "player_birth_date": "15.09.1997",
+            "player_nick": "ALOHADANCE",
+            "player_image_name": "281_no_bg.png",
+            "player_image_dominant_color": "#000000"
+        },
+        {
+            "player_fullname": "Заур Шахмурзаев",
+            "player_org_name": "Echpo4mak",
+            "player_position_name": "Керри",
+            "player_country_name": "Россия",
+            "player_birth_date": "12.08.1998",
+            "player_nick": "Cooman",
+            "player_image_name": "1403_no_bg.png",
+            "player_image_dominant_color": "#000000"
+        },
+        {
+            "player_fullname": "Владимир Миненко",
+            "player_org_name": "Entity",
+            "player_position_name": "Мидер",
+            "player_country_name": "Украина",
+            "player_birth_date": "04.09.1997",
+            "player_nick": "",
+            "player_image_name": "338_no_bg.png",
+            "player_image_dominant_color": "#000000"
+        },
+        {
+            "player_fullname": "Алимжан Исламбеков",
+            "player_org_name": "Entity",
+            "player_position_name": "Керри",
+            "player_country_name": "Казахстан",
+            "player_birth_date": "30.04.2002",
+            "player_nick": "watson",
+            "player_image_name": "4940_no_bg.png",
+            "player_image_dominant_color": "#000000"
+        }
+    ]
+}

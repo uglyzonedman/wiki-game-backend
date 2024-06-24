@@ -1,0 +1,59 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Team {
+  id               Int              @id @default(autoincrement())
+  createdAt        DateTime         @default(now()) @map("created_at")
+  updatedAt        DateTime         @default(now()) @map("updated_at")
+  country          String?          @default("")
+  flagPath         String?          @default("") @map("flag_path")
+  location         String?          @default("")
+  worldRating      String?          @default("") @map("world_rating")
+  earned           String?          @default("")
+  name             String           @default("")
+  logoPath         String?          @default("") @map("logo_path")
+  team_with_player TeamWithPlayer[]
+  dominateColor    String?          @default("") @map("dominate_color")
+
+  @@map("team")
+}
+
+model TeamWithPlayer {
+  id        Int      @id @default(autoincrement())
+  createdAt DateTime @default(now()) @map("created_at")
+  updatedAt DateTime @default(now()) @map("updated_at")
+  playerId  Int?
+  Player    Player?  @relation(fields: [playerId], references: [id])
+  teamId    Int?
+  Team      Team?    @relation(fields: [teamId], references: [id])
+
+  @@map("team_with_player")
+}
+
+model Player {
+  id               Int              @id @default(autoincrement())
+  createdAt        DateTime         @default(now()) @map("created_at")
+  updatedAt        DateTime         @default(now()) @map("updated_at")
+  name             String           @default("")
+  team_with_player TeamWithPlayer[]
+  position         String?          @default("")
+  country          String?          @default("")
+  birthDate        String?          @default("")
+  nick             String           @default("")
+  photoPath        String?          @default("") @map("photo_path")
+  dominateColor    String?          @default("") @map("dominate_color")
+
+  @@map("player")
+}
